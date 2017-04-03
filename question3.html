@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Question 3</title>
+	<style type="text/css">
+		
+		#div1
+		{
+			  position: absolute;
+		width: 80%;
+        height: 80%;
+        margin-left: 10%;
+        margin-top: 5%;
+        background: red;
+        overflow: hidden;
+		}
+	</style>
+	<script type="text/javascript">
+	
+	   window.onload = function () {
+	   	var child = document.getElementById('div1');
+		var el = document.getElementById('box');
+         el.onclick = showBox;
+
+
+         function showBox()
+         {
+         	
+         	 var element = document.createElement("div");
+         	 
+         	  child = child.appendChild(element);
+         	  
+         	  element.style.position = 'relative';
+         	  element.style.width = '80%';
+         	  element.style.height = '80%';
+         	  element.style.background ='green';
+         	  element.style.marginTop = '5%';
+         	  element.style.marginLeft='10%';
+         	  element.style.borderStyle= 'solid';  
+         }
+        
+        
+ }
+
+	</script>
+</head>
+<body>
+<div id = 'div1'>
+</div>
+<a href="#"  id="box">Show me another box</a>
+</body>
+</html>

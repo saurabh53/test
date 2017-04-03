@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login</title>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	<script type="text/javascript" src="myscript.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myCtrl">
+<form onclick="submit()">
+	
+		<label>
+  <input type="radio" name="image1" value="image1"  ng-model="starwars" ng-value ="bb-8"/>
+  <img src="starwars-avatars/pngs/starwars-bb-8.png">
+</label>
+	<label>
+  <input type="radio" name="image2" value="image2" ng-model="starwars" ng-value ="boba-fett"/>
+  <img src="starwars-avatars/pngs/starwars-boba-fett.png">
+</label>	<label>
+  <input type="radio" name="image3" value="image3" ng-model="starwars" ng-value ="c-3po"/>
+  <img src="starwars-avatars/pngs/starwars-c-3po.png">
+</label>	<label>
+  <input type="radio" name="image4" value="image4" ng-model="starwars" ng-value ="darth-vader"/>
+  <img src="starwars-avatars/pngs/starwars-darth-vader.png">
+</label>	<label>
+  <input type="radio" name="image5" value="image5" ng-model="starwars" ng-value ="r2-d2"/>
+  <img src="starwars-avatars/pngs/starwars-r2-d2.png">
+</label>	<label>
+  <input type="radio" name="image6" value="image6" ng-model="starwars" ng-value ="stormtrooper"/>
+  <img src="starwars-avatars/pngs/starwars-stormtrooper.png">
+</label>
+
+<input type="subit" name="send">
+</form>
+</body>
+</html>

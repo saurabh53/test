@@ -1,0 +1,30 @@
+[{
+    "name" : "bb-8",
+    "image" : "starwars-avatars/pngs/starwars-bb-8.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+},
+{
+    "name" : "boba-fett",
+    "image" : "starwars-avatars/pngs/starwars-boba-fett.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+},
+{
+    "name" : "c-3po",
+    "image" : "starwars-avatars/pngs/starwars-c-3po.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+},
+{
+    "name" : "darth-vader",
+    "image" :"starwars-avatars/pngs/starwars-darth-vader.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+},
+{
+    "name" : "r2-d2",
+    "image" : "starwars-avatars/pngs/starwars-r2-d2.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+},
+{
+    "name" : "stormtrooper",
+    "image" : "starwars-avatars/pngs/starwars-stormtrooper.png",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi accusantium ab sunt, laborum eum quos laudantium nulla voluptatibus sed, tempora voluptate veritatis molestias odit possimus quibusdam assumenda, asperiores magnam harum?"
+}]
